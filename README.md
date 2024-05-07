@@ -16,5 +16,5 @@ bf6e4a2508d9ebd97424f45d33c9b131317d13037d1383c56aa8d0f49aae1b055acf92e06bcfc161
 
 # 2021-01-31
 
-- bug fixed
+- bug fixed 
 - add x64 release
